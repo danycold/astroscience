@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="../assets/stylesheets/fonts/fonts.css" />
-    <link rel="stylesheet" href="../assets/stylesheets/main.css">
-  </head>
-</html>
-
 # Урок 1. Введение.
 
 ## Планеты
@@ -15,7 +6,7 @@
 ## Знаки:
 Овен, Телец, Близнецы, Рак, Лев, Дева, Весы, Скорпион, Стрелец, Козерог, Водолей, Рыбы
 
-![alt text](../assets/images/planetes_signs.png "Planetes and Zodiac signs")
+![alt text](https://github.com/danycold/astroscience/blob/master/assets/images/planetes_signs.PNG "Planetes and Zodiac signs")
 
 ### Огненные знаки
 Овен, Лев, Стрелец
