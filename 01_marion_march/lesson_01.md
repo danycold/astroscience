@@ -6,7 +6,7 @@
 ## Знаки:
 Овен, Телец, Близнецы, Рак, Лев, Дева, Весы, Скорпион, Стрелец, Козерог, Водолей, Рыбы
 
-![alt text](https://github.com/danycold/astroscience/blob/master/assets/images/planetes_signs.PNG "Planetes and Zodiac signs")
+<img width="100" height="100" src="/assets/images/planetes_signs.PNG">
 
 ### Огненные знаки
 Овен, Лев, Стрелец
